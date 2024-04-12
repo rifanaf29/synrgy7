@@ -112,22 +112,22 @@ public class Main {
             System.out.println("==========================");
             System.out.println("Minimal 1 Jumlah Pesanan");
             System.out.println("==========================\n");
-            System.out.println("Mohon masukan input");
-            System.out.println("pilihan anda");
-            System.out.println("==========================\n");
-            System.out.println("(y) untuk lanjut");
-            System.out.println("(n) untuk keluar");
-            System.out.print("=> ");
-            char konfirmasi = scanner.next().charAt(0);
-            switch (konfirmasi) {
-                case 'y':
-                case 'Y':
+//            System.out.println("Mohon masukan input");
+//            System.out.println("pilihan anda");
+//            System.out.println("==========================\n");
+//            System.out.println("(y) untuk lanjut");
+//            System.out.println("(n) untuk keluar");
+//            System.out.print("=> ");
+//            char konfirmasi = scanner.next().charAt(0);
+//            switch (konfirmasi) {
+//                case 'y':
+//                case 'Y':
                     inputPesanan(daftarPesanan, menu, harga);
-                    break;
-                case 'n':
-                case 'N':
-                    System.exit(0);
-            }
+//                    break;
+//                case 'n':
+//                case 'N':
+//                    System.exit(0);
+//            }
         } else {
             System.out.println("-------------------------------+");
             System.out.println("Total\t\t" + totalJumlahSemua + "\t\t" + totalHargaSemua + "\n");
