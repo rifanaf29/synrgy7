@@ -1,0 +1,20 @@
+==========================
+BinarFud
+==========================
+
+Terima kasih sudah memesan
+di BinarFud
+
+Dibawah ini adalah pesanan anda
+
+Es Jeruk	3		15000
+-------------------------------+
+Total		3		15000
+
+Pembayaran : BinarCash
+
+==========================
+Simpan struk ini sebagai
+bukti pembayaran
+==========================
+
